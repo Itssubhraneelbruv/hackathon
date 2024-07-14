@@ -1,1 +1,1 @@
-"# hackathon" 
+The Financial Literacy App is designed to empower users with essential financial management skills through interactive learning modules and gamified challenges. Users can learn budgeting, savings strategies, and investment basics in a user-friendly interface. The app features customizable skill-based learning paths, progress tracking, and achievement rewards to motivate continuous learning. Whether users are beginners or looking to refine their financial acumen, the app provides practical knowledge and insights to navigate personal finance confidently.
